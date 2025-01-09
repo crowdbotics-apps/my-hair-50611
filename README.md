@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-side-drawer](modules/side-drawer)
 - [react-native-typeform-webhook](modules/typeform-webhook)
 - [react-native-user-profile](modules/user-profile)
+- [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 
 # Getting started: Frontend
 
